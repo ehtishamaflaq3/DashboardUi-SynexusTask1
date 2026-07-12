@@ -18,25 +18,38 @@ A modern, responsive administrative dashboard built using **React**, **Vite**, *
 
 ---
 
+
+https://dashboarduiproj.netlify.app/
+
+---
+
 ## Screenshots
 
 ### Dashboard Overview
+
+<img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/6257322a-1627-4de7-a806-e61de16b8eb6" />
 
 ---
 
 ### Inventory Page
 
+<img width="1918" height="858" alt="image" src="https://github.com/user-attachments/assets/9d6d7bdc-d6b2-409b-9c4e-cee34a991b91" />
+
 ---
 
 ### Settings Page
+
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/fdacc3fa-fe06-4f28-8796-375aeeb46321" />
 
 ---
 
 ### Mobile View
 
+<img width="535" height="720" alt="image" src="https://github.com/user-attachments/assets/a9d18570-4c1b-4a3e-94fd-af84b1cd365e" />
+
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 - React.js
 - Vite
@@ -46,7 +59,7 @@ A modern, responsive administrative dashboard built using **React**, **Vite**, *
 
 ---
 
-# 📖 Learning Outcomes
+# Learning Outcomes
 
 This project helped strengthen my understanding of:
 
@@ -59,7 +72,7 @@ This project helped strengthen my understanding of:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Backend Integration
 - Authentication
@@ -71,16 +84,10 @@ This project helped strengthen my understanding of:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Ehtisham Aflaq**
 
 Software Engineering Student
 
 Frontend Developer (React)
-
----
-
-## 📄 License
-
-This project was created for educational and internship evaluation purposes.
