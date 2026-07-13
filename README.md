@@ -26,7 +26,6 @@ A modern, responsive administrative dashboard built using **React**, **Vite**, *
   </a>
 </p>
 
-
 ---
 
 ## Screenshots
@@ -84,7 +83,6 @@ This project helped strengthen my understanding of:
 - Authentication
 - Real-Time Inventory Updates
 - Charts & Analytics
-- Dark Mode
 - API Integration
 - User Management
 
