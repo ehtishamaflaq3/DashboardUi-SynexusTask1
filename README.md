@@ -75,8 +75,6 @@ This project helped strengthen my understanding of:
 - State Management with React Hooks
 - Clean Project Structure
 
----
-
 # Future Improvements
 
 - Backend Integration
@@ -85,8 +83,6 @@ This project helped strengthen my understanding of:
 - Charts & Analytics
 - API Integration
 - User Management
-
----
 
 # Author
 
