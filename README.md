@@ -24,7 +24,6 @@ A modern, responsive administrative dashboard built using **React**, **Vite**, *
   </a>
 </p>
 
----
 
 ## Screenshots
 
