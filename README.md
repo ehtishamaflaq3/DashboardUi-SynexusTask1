@@ -13,7 +13,7 @@ A modern, responsive administrative dashboard built using **React**, **Vite**, *
 - Reusable Components
 - Inventory Management UI
 - Settings Page UI
-- Responsive Design for Desktop, Tablet & Mobile.
+- Responsive Design for Desktop, Tablet & Mobile
 
 
 ## Check Now
@@ -83,4 +83,4 @@ This project helped strengthen my understanding of:
 
 Software Engineering Student
 
-Frontend Developer (React)
+Frontend Developer (React).
