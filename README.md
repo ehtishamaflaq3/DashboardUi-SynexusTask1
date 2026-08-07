@@ -2,7 +2,6 @@
 
 A modern, responsive administrative dashboard built using **React**, **Vite**, **Tailwind CSS**, and **React Router DOM**. This project was developed as **Week 1** of a Frontend Development Internship and focuses on clean UI design, reusable components, responsive layouts, and client-side routing.
 
-
 ## Live Features
 
 - Responsive Dashboard Layout
@@ -13,7 +12,7 @@ A modern, responsive administrative dashboard built using **React**, **Vite**, *
 - Reusable Components
 - Inventory Management UI
 - Settings Page UI
-- Responsive Design for Desktop, Tablet & Mobile
+- Responsive Design for Desktop, Tablet & Mobile.
 
 
 ## Check Now
