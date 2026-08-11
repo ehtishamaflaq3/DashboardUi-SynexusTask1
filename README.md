@@ -82,4 +82,4 @@ This project helped strengthen my understanding of:
 
 Software Engineering Student
 
-Frontend Developer (React).
+Frontend Developer (React)
