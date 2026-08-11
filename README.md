@@ -12,7 +12,7 @@ A modern, responsive administrative dashboard built using **React**, **Vite**, *
 - Reusable Components
 - Inventory Management UI
 - Settings Page UI
-- Responsive Design for Desktop, Tablet & Mobile.
+- Responsive Design for Desktop, Tablet & Mobile
 
 
 ## Check Now
