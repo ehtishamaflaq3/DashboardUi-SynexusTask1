@@ -80,6 +80,6 @@ This project helped strengthen my understanding of:
 
 **Ehtisham Aflaq**
 
-Software Engineering Student
+Software Engineering Student.
 
 Frontend Developer (React).
