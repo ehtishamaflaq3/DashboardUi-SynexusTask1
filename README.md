@@ -74,7 +74,7 @@ This project helped strengthen my understanding of:
 - Real-Time Inventory Updates
 - Charts & Analytics
 - API Integration
-- User Management
+- User Management.
 
 # Author
 
