@@ -1,6 +1,6 @@
 # Administrative Dashboard UI
 
-A modern, responsive administrative dashboard built using **React**, **Vite**, **Tailwind CSS**, and **React Router DOM**. This project was developed as **Week 1** of a Frontend Development Internship and focuses on clean UI design, reusable components, responsive layouts, and client-side routing.
+A modern, responsive administrative dashboard built using **React**, **Vite**, **Tailwind CSS**, and **React Router DOM**. This project was developed as **Week 1** of a Frontend Development Internship and focuses on clean UI design, reusable components, responsive layouts, and client-side routing
 
 ## Live Features
 
